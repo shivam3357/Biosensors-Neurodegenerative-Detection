@@ -6,8 +6,8 @@ This repository contains the research report and presentation developed for **Eu
 The project proposes a non-invasive, next-generation electrochemical biosensor platform utilizing Graphene Derivative Materials (GDMs) to achieve ultra-sensitive, early-stage detection of biomarkers for Alzheimer's and Parkinson's diseases.
 
 ## Contents
-* [Research Report (PDF)](Research_Report.pdf) - Full technical review and analytical framework.
-* [Presentation Slides (PDF)](Presentation_Slides.pdf) - Visual slide deck summarizing the research methodology and findings.
+* [Research Report (PDF)](Biosensor_ND_Report.pdf) - Full technical review and analytical framework.
+* [Presentation Slides (PDF)](Biosensor_ND_Presentation.pdf) - Visual slide deck summarizing the research methodology and findings.
 
 ## Core Core Concepts Explored
 * **Biochemical Engineering:** Process modeling for decentralized point-of-care diagnostics.
